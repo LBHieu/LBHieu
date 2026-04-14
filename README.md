@@ -14,9 +14,10 @@ I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea Univer
 
 ## Github Stats
 
-![Contributions](https://img.shields.io/github/commit-activity/m/LBHieu/LBHieu?style=flat-square)
-![Followers](https://img.shields.io/github/followers/LBHieu?style=flat-square)
-![Activity](https://img.shields.io/github/last-commit/LBHieu/LBHieu?style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LBHieu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LBHieu&layout=compact&theme=radical)
+
 <!--
 **LBHieu/LBHieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
