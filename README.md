@@ -9,13 +9,14 @@ I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea Univer
 ![C++](https://img.shields.io/badge/C%2B%2B-11-blue?style=flat&logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-20.10.7-blue?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/Git-2.30.1-orange?style=flat&logo=git)
 
 ---
-## Github Status
 
-![GitHub Status](https://img.shields.io/badge/dynamic/json?url=https://www.githubstatus.com/api/v2/status.json&label=GitHub%20Status&query=$.status.description&color=success)
+## Github Stats
 
+![Contributions](https://img.shields.io/github/commit-activity/m/LBHieu/LBHieu?style=flat-square)
+![Followers](https://img.shields.io/github/followers/LBHieu?style=flat-square)
+![Activity](https://img.shields.io/github/last-commit/LBHieu/LBHieu?style=flat-square)
 <!--
 **LBHieu/LBHieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
