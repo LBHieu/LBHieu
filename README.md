@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 🧔‍♂️
+I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea University of Information and Communication Technology (VKU)**, studying Information Technology specializing in **Network & Information Security**.
 
 <!--
 **LBHieu/LBHieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
