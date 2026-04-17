@@ -16,9 +16,9 @@ I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea Univer
 ![Django REST](https://img.shields.io/badge/Django%20REST-Framework-red?style=flat&logo=django)
 
 ### 🔒 Security & Networking
-```![Network Security](https://img.shields.io/badge/Network%20Security-Expert-red?style=flat)```
+<!--- ![Network Security](https://img.shields.io/badge/Network%20Security-Expert-red?style=flat) --->
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Suricata-purple?style=flat)
-```![Cryptography](https://img.shields.io/badge/Cryptography-Advanced-blue?style=flat)```
+<!--- ![Cryptography](https://img.shields.io/badge/Cryptography-Advanced-blue?style=flat) --->
 
 ### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-20.10.7-blue?style=flat&logo=docker)
