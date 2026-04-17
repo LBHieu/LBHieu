@@ -37,14 +37,13 @@ I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea Univer
 
 ## Certifications
 
-- [Ethical Hacker](path/to/ethical_hacker)
-- [NDG Linux Essentials Partner](path/to/ndg_linux_essentials_partner)
-- [CyberOps Associate](path/to/cyberops_associate)
+- [Ethical Hacker](https://github.com/LBHieu/LBHieu/blob/main/cert/Ethical_Hacker_certificate_lebahieuqt8924-gmail-com_ad48e8d6-b286-4719-a0cf-b57ca71bcae7.pdf)
+- [NDG Linux Essentials Partner](https://github.com/LBHieu/LBHieu/blob/main/cert/Partner-_NDG_Linux_Essentials_certificate_hieulb-22ns-vku-udn-vn_3931f7e3-6dc3-4368-9f3f-ff6c12a58ccd.pdf)
+- [CyberOps Associate](https://github.com/LBHieu/LBHieu/blob/main/cert/_certificate_lebahieuqt8924-gmail-com_5d28f8d2-ae76-41e0-b4f2-411280d14845.pdf)
 
 ---
 
 ## Featured Projects
-
 
 ### 🛡️ IDS/IPS
 - 📊 **Wazuh**: An open-source security monitoring platform that provides intrusion detection and comprehensive security monitoring.
@@ -52,13 +51,13 @@ I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea Univer
 - 🧱 **ModSecurity**: A web application firewall that helps protect web applications from various attacks.
 
 ### 📡 WPA/WPA2 Vulnerability Analysis
-- 🔓 A detailed analysis of the vulnerabilities associated with the WPA/WPA2 security protocols used in wireless networks.
+- 🔓 Analyzed of the vulnerabilities associated with the WPA/WPA2 security protocols used in wireless networks.
 
 ### 🛍️ E-commerce using Django Framework
-- 🐍 A complete e-commerce web application built using the Django framework, featuring user authentication, product management, and payment processing.
+- 🐍 A simple e-commerce web application built using the Django framework, featuring user authentication, product management, and payment processing for python practice.
 
 ### 🕵️‍♂️ ZKP Implementation
-- 🔐 Implementation of Zero-Knowledge Proofs (ZKPs) to ensure privacy and security in transactions.
+- 🔐 Implementation of Zero-Knowledge Proofs (ZKPs) to ensure privacy and security in authentications.
 
 ---
 
