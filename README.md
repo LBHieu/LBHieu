@@ -37,6 +37,9 @@ I'm Lê Bá Hiếu, currently an undergraduate student at **Vietnam-Korea Univer
 
 ## Certifications
 
+- [Ethical Hacker](path/to/ethical_hacker)
+- [NDG Linux Essentials Partner](path/to/ndg_linux_essentials_partner)
+- [CyberOps Associate](path/to/cyberops_associate)
 
 ---
 
